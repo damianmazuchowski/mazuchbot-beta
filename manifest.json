@@ -1,0 +1,17 @@
+{
+  "name": "MazuchBot",
+  "version": "1.0.0",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "description": "This is an extension to join the free battle",
+  "manifest_version": 3,
+  "author": "Damian Mazuchowski",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "MazuchBot"
+  }
+}
